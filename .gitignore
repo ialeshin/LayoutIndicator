@@ -1,2 +1,5 @@
 LayoutIndicator_Setup_*.exe
 publish/
+bin/
+obj/
+*.user

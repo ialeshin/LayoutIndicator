@@ -1,8 +1,0 @@
-/home/ales/LayoutIndicator/publish/LayoutIndicator.pdb
-/home/ales/LayoutIndicator/publish/settings.json
-/home/ales/LayoutIndicator/publish/D3DCompiler_47_cor3.dll
-/home/ales/LayoutIndicator/publish/PenImc_cor3.dll
-/home/ales/LayoutIndicator/publish/PresentationNative_cor3.dll
-/home/ales/LayoutIndicator/publish/vcruntime140_cor3.dll
-/home/ales/LayoutIndicator/publish/wpfgfx_cor3.dll
-/home/ales/LayoutIndicator/publish/LayoutIndicator.exe
