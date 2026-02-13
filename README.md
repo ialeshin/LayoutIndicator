@@ -18,9 +18,23 @@ Switch between English and Russian (or any other layouts) and instantly see whic
 - **Single-instance guard** — prevents duplicate processes
 - **Configurable** via `settings.json` — colors, strip width, opacity, mode, flash duration, and layout mappings
 
-## Screenshot
+## Demo
 
-When English (US) is active, a blue strip appears on the right edge of each screen. Switching to Russian changes it to red.
+### Layout Switch
+
+![Layout switch animation](assets/layout-switch.gif)
+
+### English Layout (Blue Strip)
+
+![English layout — blue strip on the right edge](assets/strip-english.png)
+
+### Russian Layout (Red Strip)
+
+![Russian layout — red strip on the right edge](assets/strip-russian.png)
+
+### System Tray Menu
+
+![Right-click context menu](assets/tray-menu.png)
 
 ## Installation
 
